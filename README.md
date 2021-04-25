@@ -13,3 +13,4 @@ git config --global user.email "your-email"
 - ``` git commit ``` to adding changes to source code
 
 simple git command
+getting started with git ...
