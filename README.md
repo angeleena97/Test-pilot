@@ -12,4 +12,4 @@ git config --global user.email "your-email"
 - ``` git push ``` to move code changes to local to remote repo
 - ``` git commit ``` to adding changes to source code
 
-simple git command
+- ''' git pull ''' to move code changes to remote repository to local
