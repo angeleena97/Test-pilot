@@ -1,8 +1,5 @@
 # Test-pilot
-Project to learn github.
-This is my first line
-This is my second line.
-=======
+Project to learn github and practise Angular.
 ## Git commands
 - Git clone : downloading codebase
 - ``` git status ``` to check file status ot number of modified files
