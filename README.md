@@ -1,6 +1,4 @@
 # Test-pilot
-
-<<<<<<< HEAD
 Project to learn github.
 This is my first line
 This is my second line.
@@ -17,4 +15,3 @@ git config --global user.email "your-email"
 - ``` git push ``` to move code changes to local to remote repo
 - ``` git commit ``` to adding changes to source code
 
->>>>>>> 6f3930955d709da4297a7ee2c837474b3c7d473b
