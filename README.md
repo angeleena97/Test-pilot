@@ -1,5 +1,20 @@
 # Test-pilot
 
+<<<<<<< HEAD
 Project to learn github.
 This is my first line
 This is my second line.
+=======
+## Git commands
+- Git clone : downloading codebase
+- ``` git status ``` to check file status ot number of modified files
+- to configure email and username
+
+```
+git config --global user.name "your-name"
+git config --global user.email "your-email"
+```
+- ``` git push ``` to move code changes to local to remote repo
+- ``` git commit ``` to adding changes to source code
+
+>>>>>>> 6f3930955d709da4297a7ee2c837474b3c7d473b
